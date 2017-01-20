@@ -1,5 +1,7 @@
 # ko-querystring
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Profiscience/ko-querystring.svg)](https://greenkeeper.io/)
+
 [![NPM Version](https://img.shields.io/npm/v/ko-querystring.svg)](https://www.npmjs.com/package/ko-querystring)
 ![WTFPL](https://img.shields.io/npm/l/ko-querystring.svg)
 [![Travis](https://img.shields.io/travis/Profiscience/ko-querystring.svg)](https://travis-ci.org/Profiscience/ko-querystring)
